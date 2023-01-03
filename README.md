@@ -18,8 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/MatheusAugusto-dot">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=MatheusAugusto-dot&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAugusto-dot&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="95em" src="https://github-readme-stats.vercel.app/api?username=MatheusAugusto-dot&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="95em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAugusto-dot&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
